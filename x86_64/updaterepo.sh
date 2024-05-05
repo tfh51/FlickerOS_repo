@@ -8,7 +8,7 @@ repo-add -n -R FlickerOS_repo.db.tar.gz *.pkg.tar.zst
 
 sleep 1
 
-rm PaOs_repo.db
+rm FlickerOS_repo.db
 rm FlickerOS_repo.db.sig
 
 rm FlickerOS_repo.files
